@@ -108,5 +108,14 @@ const questions = [
       { text: '6', correct: false },
       { text: '8', correct: true }
     ]
+  },
+  {
+    question: 'What is 16 / 2?',
+    answers: [
+      { text: '6', correct: false },
+      { text: '8', correct: true },
+      {text: '4', correct: false},
+      {text: '2', correct: false}
+    ]
   }
 ]
